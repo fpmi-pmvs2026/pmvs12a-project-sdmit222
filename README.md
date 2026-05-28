@@ -32,7 +32,7 @@
 
 ## Скриншоты
 ![Скрин 1](https://github.com/fpmi-pmvs2026/pmvs12a-project-sdmit222/blob/main/photo1.png)
-
+![Скрин 2](https://github.com/fpmi-pmvs2026/pmvs12a-project-sdmit222/blob/main/photo2.png)
 ## 👨‍💻 Команда
 * [Егорова Лизавета] – студент 3 курса, 12 группа.
 * [Дмитриев Александр] – студент 3 курса, 12 группа.
